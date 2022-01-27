@@ -1,0 +1,30 @@
+{
+  "id": "2",
+  "status": "active",
+  "title": "Hoodie XS",
+  "description": "Bluza w rozmiarze XS. Kupiona w sinsay. Dobry stan. Wymiary: w klatce: 60cm, długość: 57cm. Zapraszam do zakupu.",
+  "location": {
+    "name": "Toruń",
+    "lat": 53.01379,
+    "long": 18.598444
+  },
+  "images": [
+    {
+      "url": "https://ae01.alicdn.com/kf/HTB1FQy4acfrK1Rjy1Xdq6yemFXa5/Kobiety-Instagram-projektowania-druku-bluzy-z-kapturem-z-polaru-bluzy-zimowe-Unisex-Hip-Hop-Swag-bluzy.jpg_q50.jpg"
+    }
+  ],
+  "price": 23.32,
+  "seller": {
+    "id": "2",
+    "name": "Iza Pracz",
+    "is_online": true,
+    "phone": "222 222 222"
+  },
+  "category": {
+    "id": 2,
+    "name": "Bluzy"
+  },
+  "added_at": "2019-12-27T07:45:00Z",
+  "valid_to": "2019-12-27T07:45:00Z",
+  "views": 332
+},
